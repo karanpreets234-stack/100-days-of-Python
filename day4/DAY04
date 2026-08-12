@@ -1,0 +1,4 @@
+#Day04 - python
+print("HELLO THIS IS MY FIRST PROGRAM")
+print(167*12)
+print("bye guys")
