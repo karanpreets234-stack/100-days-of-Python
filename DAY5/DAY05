@@ -1,0 +1,14 @@
+# Day05
+#Escape sequence charactrs
+print("Fundamentals of Python\n First Program")# here \n is used to print a string in next line
+print("hello boy\t ,how are you")# here \t is used to give space between the string
+# comments 
+# this is singleline comment
+# Multiline comment
+"""
+these triple double qoutes indicates multiline comments
+"""
+print("Hi I am a \"Good Boy\" and a good classmate")
+#seperators
+print("hey",6,7,sep="~",end="009\n"")
+
